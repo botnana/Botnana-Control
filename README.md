@@ -1,5 +1,18 @@
 # Botnana-Control Release History
 
+## Version 1.13.13
+
+日期 : 2019/07/11
+
+修改要點：
+
+1. 修改 Websocket Client 連線數超過 2 的時的訊息。
+2. 新增 Disable EtherCAT Slave Watchdog 的功能。  
+
+## Version 1.13.12
+
+除錯版。
+
 ## Version 1.13.11
 
 日期 : 2019/07/06

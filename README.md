@@ -1,5 +1,13 @@
 # Botnana-Control Release History
 
+## Version 1.13.14
+
+日期 : 2019/07/12
+
+修改要點：
+
+1. 新增 `.coordinator` 指令，回傳 `coordinator_enabled` 狀態。
+
 ## Version 1.13.13
 
 日期 : 2019/07/11

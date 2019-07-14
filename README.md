@@ -1,5 +1,24 @@
 # Botnana-Control Release History
 
+Botnana Control 更新步驟請參考：
+
+[https://botnana.github.io/botnana-book/update-software.html](https://botnana.github.io/botnana-book/update-software.html)
+
+Botnana Control 更新檔下載網址：
+
+[https://drive.google.com/drive/u/0/folders/1_8j0_r2Hxsl5TJnn83XF2cGb4gC0BmFK](https://drive.google.com/drive/u/0/folders/1_8j0_r2Hxsl5TJnn83XF2cGb4gC0BmFK)
+
+
+## Version 1.13.15
+
+日期 : 2019/07/14
+
+修改要點：
+
+1. 直接讀取 FOXNUM 驅動器 Supported Drive Mode 暫存器來判斷可支援的模式。
+2. 新增軸組運動 ignorable distance 設定參數，修正軸組運動在 pulse 單位下，因為浮點運算的累計誤差導致無法走到路徑終點的問題，
+
+
 ## Version 1.13.14
 
 日期 : 2019/07/12

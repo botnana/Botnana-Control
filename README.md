@@ -17,6 +17,7 @@ Botnana Control 更新檔下載網址：
 1. 支援 IAI RCON-GW-EC 從站 。
 2. 增加 `#groups` 與 `#axes` 指令。
 3. `encoder_length_unit` 增加 UserDefine 設定。
+4. rtForth 增加 `_postpone`,`postpone`,`literal`, `fliteral`, `2literal` 指令。 
 
 ## Version 1.13.16
 

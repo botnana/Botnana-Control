@@ -8,6 +8,15 @@ Botnana Control 更新檔下載網址：
 
 [https://drive.google.com/drive/u/0/folders/1_8j0_r2Hxsl5TJnn83XF2cGb4gC0BmFK](https://drive.google.com/drive/u/0/folders/1_8j0_r2Hxsl5TJnn83XF2cGb4gC0BmFK)
 
+## Version 1.13.17
+
+日期 : 2019/07/22
+
+修改要點：
+
+1. 支援 IAI RCON-GW-EC 從站 。
+2. 增加 `#groups` 與 `#axes` 指令。
+3. `encoder_length_unit` 增加 UserDefine 設定。
 
 ## Version 1.13.16
 
@@ -17,7 +26,7 @@ Botnana Control 更新檔下載網址：
 
 1. rtForth 增加 `tuck`, `/string`, `append`, `word`, `move`, `_skip`, `!token` 指令 。
 2. 增加 `.ec-wdt-proc-data` 指令，顯示 EtherCAT Slave Watchdog 設定。
-3. 在原始的線程執行 Reboot 與 Poweroff 指令。
+3. encoder。
 
 ## Version 1.13.15
 

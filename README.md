@@ -8,6 +8,15 @@ Botnana Control 更新檔下載網址：
 
 [https://drive.google.com/drive/u/0/folders/1_8j0_r2Hxsl5TJnn83XF2cGb4gC0BmFK](https://drive.google.com/drive/u/0/folders/1_8j0_r2Hxsl5TJnn83XF2cGb4gC0BmFK)
 
+## Version 1.13.18
+
+日期 : 2019/07/24
+
+修改要點：
+
+1. rtForth 修正 `move` 命令的錯誤（當移動區間重疊時，資料順序移動錯誤）。 
+
+
 ## Version 1.13.17
 
 日期 : 2019/07/22

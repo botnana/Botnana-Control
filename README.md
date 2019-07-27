@@ -8,6 +8,33 @@ Botnana Control 更新檔下載網址：
 
 [https://drive.google.com/drive/u/0/folders/1_8j0_r2Hxsl5TJnn83XF2cGb4gC0BmFK](https://drive.google.com/drive/u/0/folders/1_8j0_r2Hxsl5TJnn83XF2cGb4gC0BmFK)
 
+
+## Version 1.13.19
+
+日期 : 2019/07/27
+
+修改要點：
+
+1. 增加 `ec-gatway?` 指令。
+2. rtforth 增加 `defer`, `defer@`，`defer!`, `>body`, `on` 與 `off` 命令
+3. rtforth 增加  `r/o`, `w/o` 與 `r/w` 常數。
+
+參考 [https://mapacode.github.io/rtforth/dictionary.html](https://mapacode.github.io/rtforth/dictionary.html) 中「字典」一章中的「向量執行」一節。
+這一節中的程式可以用 defer 和 defer! 改寫如下：
+
+```
+    : hello   ." Hello!" ;
+    : ciao    ." Ciao!" ;
+    defer greet
+    : english   ['] hello ['] greet defer! ;
+    : italian   ['] ciao ['] greet defer! ;
+    english greet
+    > Hello!
+    italian greet
+    > Ciao!
+
+```
+
 ## Version 1.13.18
 
 日期 : 2019/07/24

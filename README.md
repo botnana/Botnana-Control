@@ -61,7 +61,7 @@ Botnana Control 更新檔下載網址：
 
 修改要點：
 
-1. rtForth 增加 `tuck`, `/string`, `append`, `word`, `move`, `_skip`, `!token` 指令 。
+1. rtForth 增加 `tuck`, `/string`, `append`, `word`, `move`, `_skip`, `!token`, `.memory` 指令 。
 2. 增加 `.ec-wdt-proc-data` 指令，顯示 EtherCAT Slave Watchdog 設定。
 3. encoder。
 

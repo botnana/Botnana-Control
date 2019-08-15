@@ -8,6 +8,16 @@ Botnana Control 更新檔下載網址：
 
 [https://drive.google.com/drive/u/0/folders/1_8j0_r2Hxsl5TJnn83XF2cGb4gC0BmFK](https://drive.google.com/drive/u/0/folders/1_8j0_r2Hxsl5TJnn83XF2cGb4gC0BmFK)
 
+## Version 1.13.20
+
+日期 : 2019/08/15
+
+修改要點：
+
+1. 整合 BECKHOFF EL9410 模組。
+2. 整合 TECO JSDG2S 伺服驅動器。
+3. 整合 FUJI ALPHA7 伺服驅動器。
+4. 修改 `.timer` 回應訊息中的 `timer_expored` 的資料型態。
 
 ## Version 1.13.19
 

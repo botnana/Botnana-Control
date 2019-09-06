@@ -8,6 +8,15 @@ Botnana Control 更新檔下載網址：
 
 [https://drive.google.com/drive/u/0/folders/1_8j0_r2Hxsl5TJnn83XF2cGb4gC0BmFK](https://drive.google.com/drive/u/0/folders/1_8j0_r2Hxsl5TJnn83XF2cGb4gC0BmFK)
 
+## Version 1.13.21
+
+日期 : 2019/09/06
+
+修改要點：
+
+1. 增加 `drive-psl@` 與 `drive-nsl@` 指令。
+
+
 ## Version 1.13.20
 
 日期 : 2019/08/15

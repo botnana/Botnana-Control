@@ -8,6 +8,16 @@ Botnana Control 更新檔下載網址：
 
 [https://drive.google.com/drive/u/0/folders/1_8j0_r2Hxsl5TJnn83XF2cGb4gC0BmFK](https://drive.google.com/drive/u/0/folders/1_8j0_r2Hxsl5TJnn83XF2cGb4gC0BmFK)
 
+## Version 1.15.1
+
+日期 : 2019/09/23
+
+修改要點：
+
+1. 改用 rtforth 新增的 include 指令引用 forth scripts
+2. 增加開機時讀回從站軟硬體版本
+3. 軸組允許長度為零之路徑
+
 ## Version 1.13.21
 
 日期 : 2019/09/06

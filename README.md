@@ -8,6 +8,17 @@ Botnana Control 更新檔下載網址：
 
 [https://drive.google.com/drive/u/0/folders/1_8j0_r2Hxsl5TJnn83XF2cGb4gC0BmFK](https://drive.google.com/drive/u/0/folders/1_8j0_r2Hxsl5TJnn83XF2cGb4gC0BmFK)
 
+## Version 1.15.2
+
+日期 : 2019/09/30
+
+修改要點：
+
+1. Server 改為使用 Xenomai Task 處理與 VM 間的 Input/Output，並且限制每個周期最多的命令封包數與總命令長度
+2. 統計 Input/Output 的最大使用量。增加命令設定每個周期最多的命令封包數與總命令長度
+3. 增加設定驅動器 Touch Probe Function 的 SDO
+4. debug:修正軟硬體版本字串後面帶有 NULL 字元的問題
+
 ## Version 1.15.1
 
 日期 : 2019/09/23

@@ -8,6 +8,18 @@ Botnana Control 更新檔下載網址：
 
 [https://drive.google.com/drive/u/0/folders/1_8j0_r2Hxsl5TJnn83XF2cGb4gC0BmFK](https://drive.google.com/drive/u/0/folders/1_8j0_r2Hxsl5TJnn83XF2cGb4gC0BmFK)
 
+## Version 1.15.3
+
+日期 : 2019/11/06
+
+修改要點：
+
+1. Botnana HMI about 現在需要先輸入驗證碼才可以繼續動作。
+2. rtforth : BASIC support. 增加 0labels, label, goto, call 指令。
+3. rtforth : 修正了 +loop 只執行一次的 bug。
+4. 增加 Encoder : +ec-enc-latch, -ec-enc-latch, ec-enc-latch!, ec-enc-latch?, ec-enc-latch@, ec-enc-overflow?, ec-enc-underflow? 指令
+5. 支援 BECKHOFF EL5101 Encoder Module
+
 ## Version 1.15.2
 
 日期 : 2019/09/30

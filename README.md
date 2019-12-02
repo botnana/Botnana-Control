@@ -8,6 +8,17 @@ Botnana Control 更新檔下載網址：
 
 [https://drive.google.com/drive/u/0/folders/1_8j0_r2Hxsl5TJnn83XF2cGb4gC0BmFK](https://drive.google.com/drive/u/0/folders/1_8j0_r2Hxsl5TJnn83XF2cGb4gC0BmFK)
 
+## Version 1.15.4
+
+日期 : 2019/12/02
+
+修改要點：
+
+1. 支援 DELTA EC70E2 DOUT Module
+2. 支援 TPM 207-D522-NN, 207-D222-NNS DIO Module
+3. 支援 TPM 207-C244C Encoder Module
+4. 增加 +ec-trigger, -ec-trigger, ec-trigger-cw!, ec-trigger-cw@, ec-trigger-sw@ 指令
+
 ## Version 1.15.3
 
 日期 : 2019/11/06
